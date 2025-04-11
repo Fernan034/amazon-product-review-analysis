@@ -3,6 +3,9 @@
 ## Description:
 This project is a data analysis dashboard that provides insights from **Amazon product reviews**. It visualizes key metrics like **average ratings**, **review counts**, and **rating distribution**, helping businesses understand customer sentiment and product performance.
 
+## **Dashboard Preview**
+![Amazon Product Review Dashboard](https://github.com/Fernan034/amazon-product-review-analysis/blob/main/Screenshot%202025-04-11%20130227.png?raw=true).
+
 ## Features:
 - **Average Rating per Product**: Shows the average rating of each product.
 - **Total Number of Reviews per Product**: Displays how many reviews each product has received.
