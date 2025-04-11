@@ -24,7 +24,7 @@ To use this dashboard locally:
 
 1. **Clone the repository**:
     ```bash
-git clone https://github.com/Fernan034/amazon-product-review-analysis.git
+     git clone https://github.com/Fernan034/amazon-product-review-analysis.git
     ```
 
 2. **Open the Excel file** to view and interact with the dashboard.
