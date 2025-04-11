@@ -34,7 +34,7 @@ To use this dashboard locally:
 - The dashboard will automatically update as you make changes or update the data.
 
 ## Insights:
-- **Top Performers**: Focus on your products with the highest ratings and number of reviews. They’re performing well and can be marketed further.
+- **Top Performers**: Focus on products with the highest ratings and number of reviews. They’re performing well and can be marketed further.
 - **Improvement Areas**: Pay attention to products with low ratings, many 1-2 star reviews, and fewer reviews. These may need improvements in quality, customer service, or marketing.
 - **Customer Engagement**: Encourage more reviews on products with fewer reviews to increase engagement and make the ratings more reliable.
 
