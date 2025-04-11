@@ -1,3 +1,5 @@
+Amazon Product Review Analysis Dashboard
+
 Description:
 This project is a data analysis dashboard that provides insights from Amazon product reviews. It visualizes key metrics like average ratings, review counts, and rating distribution, helping businesses understand customer sentiment and product performance.
 
